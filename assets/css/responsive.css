@@ -215,7 +215,7 @@ Version:1.0
 	padding: 10px 20px;
 }
 .small-banner {
-	padding: 18px 0;	
+	padding: 18px 0;
 }
 .small-banner .single-banner.tab-height{
 	height:300px;
@@ -485,7 +485,7 @@ Version:1.0
 	top: 4px;
 }
 .header.shop .logo {
-	margin: 0;
+  margin: 0;
 }
 .section{
 	padding:50px 0px;
@@ -523,7 +523,7 @@ Version:1.0
 	display: none;
 }
 .header .header-inner{
-	display:none 
+	display:none
 }
 .hero-slider {
 	height: 350px;
@@ -640,7 +640,7 @@ Version:1.0
 }
 .small-banner {
 	padding: 18px 0;
-	
+
 }
 .small-banner .single-banner{
 	margin-bottom: 18px;
@@ -1255,7 +1255,7 @@ Version:1.0
 	display: none;
 }
 .header .header-inner{
-	display:none 
+	display:none
 }
 .header.shop .nav li .new {
 	display:none !important;
@@ -1298,7 +1298,7 @@ Version:1.0
 }
 .small-banner {
 	padding: 18px 0;
-	
+
 }
 .small-banner .single-banner{
 	margin-bottom: 18px;
@@ -1454,7 +1454,6 @@ Version:1.0
 }
 .shop .nice-select {
 	width: 100%;
-	display: ;
 	margin-top: 4px;
 }
 .shop .view-mode {
@@ -1468,12 +1467,10 @@ Version:1.0
 	margin-right: 5px;
 	display: inline-block;
 	margin: 0;
-	mar0-t: mar;
 	margin-top: 4px;
 	width: 100%;
 	display: block;
 	display: inline-block;
-	display: ;
 }
 .shop .view-mode li a {
 	width: 80px;
